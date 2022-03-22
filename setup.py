@@ -9,7 +9,7 @@ setup(
     license="BSD2 Clause",
     packages=setuptools.find_packages(),
     install_requires=[
-      "pydantic,
+      "pydantic",
       "dictdiffer",
       "pandas",
     ]

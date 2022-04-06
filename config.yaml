@@ -1,0 +1,3 @@
+tag:
+    controlled_vocab:
+        - "[pn|PN](\d*)"
